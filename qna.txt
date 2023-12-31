@@ -1,0 +1,6 @@
+Q. What do the "_pos" and "_net" suffixes mean in context of the category variable? 
+A. POS is (Point of Sale) or we can say the card swiping machine used to read credit card when making the transaction.
+NET is internet. or we can say the card has been used online. 
+
+
+
